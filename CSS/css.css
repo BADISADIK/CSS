@@ -1,0 +1,56 @@
+
+/* element */
+h1{
+    background-color: rgb(39, 163, 37);
+}
+
+h2{
+    background-color: aqua;
+}
+
+h3{
+    background-color: bisque;
+}
+
+h4{
+    background-color: gray;
+}
+
+h5{
+    background-color: blue;
+}
+
+h6{
+    background-color: crimson;
+}
+
+/* class */
+.hello{
+    color: brown;
+}
+
+/* id */
+#badi{
+    background-color: yellow;
+}
+
+/* univarsal */
+*{
+    color: darkgreen;
+}
+
+
+/* descendant */
+div p {
+    color: chocolate;
+}
+
+/* child  */
+
+div >  h1{
+    color: rgb(229, 19, 37);
+}
+section > h1{
+    color: black;
+}
+
